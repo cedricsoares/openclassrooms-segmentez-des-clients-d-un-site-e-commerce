@@ -1,1 +1,0 @@
-# openclassrooms-segmentez-des-clients-d-un-site-e-commerce
