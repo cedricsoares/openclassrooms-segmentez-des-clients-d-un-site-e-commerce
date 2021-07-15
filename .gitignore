@@ -167,5 +167,12 @@ Thumbs.db
 data/
 data/*
 
+# models
+./models
+./models/*
+models/
+models/*
+./*/*.sav
+
 
 # End of https://www.toptal.com/developers/gitignore/api/python,jupyternotebooks
